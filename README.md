@@ -14,8 +14,11 @@ Dump your tables separately and automatically upload to your S3 bucket.
     TMP_DIR=
 
     AWS_S3_ACCESS_KEY_ID=
+   
     AWS_S3_ACCESS_SECRET_KEY=
+   
     AWS_S3_DEFAULT_REGION=
+    
     AWS_S3_BUCKET=
 
     DB_TABLES_PREFIX=
